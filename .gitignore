@@ -1,0 +1,20 @@
+# env
+.env
+.env.*
+!.env.example
+
+# python
+.venv/
+__pycache__/
+*.pyc
+*.db
+
+# node
+node_modules/
+.next/
+lib/generated/
+
+*.log
+.DS_Store
+.vscode/
+.idea/
